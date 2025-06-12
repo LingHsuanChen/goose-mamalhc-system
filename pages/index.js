@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div
       className="w-screen h-screen bg-cover bg-center flex items-center justify-center text-center text-white"
-      style={{ backgroundImage: "url('/login-bg.jpg')" }}
+      style={{ backgroundImage: "url('/login-bg.jpg.png')" }}
     >
       <div className="bg-black/60 p-10 rounded-xl shadow-lg max-w-xl w-full">
         <h1 className="text-4xl font-bold mb-4">鵝媽媽托嬰中心</h1>
